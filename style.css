@@ -1,0 +1,104 @@
+
+.produkter {
+    background-color: rgb(88, 88, 233);
+    width: 200px;
+    height: 200;
+    float: left;
+    margin: 10px 10px 10px 10px ;
+    } 
+    body{
+        background-color: darkslategray;
+            }
+    h1 { 
+        display: block;
+        font-size: 2em;
+        margin-top: 0.67em;
+        margin-bottom: 0.0em;
+        margin-right: 0;
+        font-weight: bold;
+        text-align: center;
+        color: rgb(69, 69, 204);
+
+    }
+    h5 { 
+        display: block;
+        margin-top: 0.0em;
+        margin-bottom: 0.67em;
+        margin-left: 23em;
+        margin-right: 0;
+        font-weight: italic;
+        color: rgb(214, 7, 7)
+    }
+    
+ 
+#header {
+    background-color:white; 
+    width: 800px;em
+    height: 100px;  
+}    
+#content {
+background-color:white; 
+    width: 800px;
+    height: 250px;
+    
+}
+#footer {
+    background-color:white; 
+    width: 800px;
+    height: 30px;
+    margin: 15px 0px 0px 0px;
+}
+.produkt {
+
+    background-color: aqua;
+    height: 200px;
+    width: 200px;
+    margin:10px 10px 10px 10px;
+    float: left;
+}
+#contentforproducts{
+    width: 800px;
+    height: 650px;
+    margin: 0px 0px 0px 50px;
+}
+
+table, th,td {
+    margin-left: 125px;
+    
+    border: 1px solid black;
+    border-collapse: collapse;
+    
+
+}
+
+font-family: 'Roboto', sans-serif;
+font-family: 'Libre Baskerville', serif;
+font-family: 'Pacifico', cursive;
+
+label {
+    color: rgb(129, 9, 69);
+    font-weight: bold;
+    display: block;
+    width: 150px;
+    float: left;}
+    #form{
+background-color: rgb(122, 3, 29);
+float: center;
+
+    }
+    button {
+       
+        border: none;
+        color: rgb(0, 0, 0);
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 15px;
+        margin-left: 300px;
+    }
+    background-img:url(flowers.jpg)
+
+    #box{
+        color: azure;
+    }
+    
